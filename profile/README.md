@@ -12,6 +12,11 @@ suas habilidades e competências adquiridas dentro dos cursos de TI da UniRitter
 
 Nesta fase experimental, participam os alunos da disciplina de estágio da UniRitter e FADERGS.
 
+Por que ENKI?
+
+Enki é o deus sumério da água doce primordial, sabedoria e criação. O funcionamento dos assuntos diários foi deixado sob sua responsabilidade e segundo os mitos organizou a terra e estabeleceu a lei e a ordem.
+Além disso, Enqui era deus dos artistas e artesãos. Nada mais relaciondo com desenvolveres de software, não acham?
+
 
 Keep Coding... and code hard!
 
