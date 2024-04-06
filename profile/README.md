@@ -21,19 +21,13 @@ Além disso, Enqui era deus dos artistas e artesãos. Nada mais relaciondo com d
 Perfis/responsabilidades:
 
 - PO
-- 
 - Analista
-- 
 - Dev
-- 
 - Tester
-- 
 - UX
-- 
 - DB Dados
-- 
 - BI
-- 
+
 
 Keep Coding... and code hard!
 
