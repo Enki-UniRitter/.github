@@ -18,6 +18,23 @@ Enki é o deus sumério da água doce primordial, sabedoria e criação. O funci
 Além disso, Enqui era deus dos artistas e artesãos. Nada mais relaciondo com desenvolveres de software, não acham?
 
 
+Perfis/responsabilidades:
+
+- PO
+- 
+- Analista
+- 
+- Dev
+- 
+- Tester
+- 
+- UX
+- 
+- DB Dados
+- 
+- BI
+- 
+
 Keep Coding... and code hard!
 
 <!--
